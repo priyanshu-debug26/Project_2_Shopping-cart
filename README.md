@@ -1,1 +1,1 @@
-# Project_2_Shopping-cart
+This was the second project i made in JAVA
